@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omprxz&label=Profile%20views&color=0e75b6&style=flat" alt="omprxz" /> </p>
 
-- 🔭 I’m currently working on [Attendance Marking Project](https://marked.free.nf)
+- 🔭 I’m currently working on [CodyloAI](https://codylo.vercel.app)
 
 - 🌱 I’m currently learning **MERN, DSA**
 
